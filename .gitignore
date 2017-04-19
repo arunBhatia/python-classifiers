@@ -4,6 +4,7 @@
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
+.idea/vcs.xml
 untrodden.iml
 # Byte-compiled / optimized / DLL files
 __pycache__/
